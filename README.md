@@ -12,6 +12,8 @@ Nexus is a clean, dark-mode dashboard for tracking your progress across books, g
 <img src="https://github.com/user-attachments/assets/dea07090-24ab-4c76-8aa8-7fbc6ab56590" width="800" />
 <img src="https://github.com/user-attachments/assets/1d63a373-6907-4166-90ce-7cec7cca12ef" width="800" />
 <img src="https://github.com/user-attachments/assets/d91a13c7-f44d-4f31-9a0a-2eb73fdf25f9" width="800" />
+<img src="https://github.com/user-attachments/assets/930638fb-a476-489b-88e8-59f3c3bed8a6" width="800"/>
+
 
 ### 🚀 Getting Started
 1. **Database**: Use XAMPP to create a database named `nexus_tracker` and import the `schema.sql` file.
