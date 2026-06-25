@@ -1,0 +1,22 @@
+{
+  "short_name": "Nexus",
+  "name": "Nexus Media Tracker",
+  "description": "Nexus - Premium Media Backlog & Progress Tracker",
+  "icons": [
+    {
+      "src": "images/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "images/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "index.php",
+  "background_color": "#0a0914",
+  "theme_color": "#0a0914",
+  "display": "standalone",
+  "orientation": "portrait"
+}
